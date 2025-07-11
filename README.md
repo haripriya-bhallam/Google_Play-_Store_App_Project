@@ -1,5 +1,4 @@
 # Google_Play-_Store_App_Project
-# Step 1: Import Necessary Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
